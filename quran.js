@@ -13,7 +13,7 @@ class Quran {
               type: Scratch.ArgumentType.NUMBER,
               defaultValue: 1
             },
-            SUARH: {
+            SURAH: {
               type: Scratch.ArgumentType.NUMBER,
               defaultValue: 1
             }
